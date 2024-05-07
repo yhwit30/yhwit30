@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br/>
+<br/>
+
+### 개발공부 
+<hr>
+
+- java
+공부기간 : 2023.12 ~ 2024.01
+
+
