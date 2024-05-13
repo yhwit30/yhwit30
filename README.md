@@ -94,23 +94,23 @@
 [코리아IT아카데미 학습내용]
 
 <div>
-<a href="https://github.com/yhwit30/wise_saying_2023_12">1. 명언 앱(2023.12)</a>
+<a href="https://github.com/yhwit30/wise_saying_2023_12">1. 명언 앱(2023.12) </a>  &nbsp; java / eclipse
 <br/>
-<a href="https://github.com/yhwit30/polynomial_cal_23_12">2. 다항식 계산기(2023.12)</a>
+<a href="https://github.com/yhwit30/polynomial_cal_23_12">2. 다항식 계산기(2023.12)</a>  &nbsp; java / intelliJ
 <br/>
-<a href="https://github.com/yhwit30/23_12_AM_backup">3. 회원+게시글 프로젝트(2024.1)</a>
+<a href="https://github.com/yhwit30/23_12_AM_backup">3. 회원+게시글 프로젝트(2024.1)</a>  &nbsp; java / eclipse
 <br/>
-<a href="https://github.com/yhwit30/24_01_JDBC_AM">4. JDBC 활용(2024.1)</a>
+<a href="https://github.com/yhwit30/24_01_JDBC_AM">4. JDBC 활용(2024.1)</a>  &nbsp; java / spring
 <br/>
-<a href="https://github.com/yhwit30/JSP_AM_2024_01">5. JSP 활용(2024.1)</a>
+<a href="https://github.com/yhwit30/JSP_AM_2024_01">5. JSP 활용(2024.1)</a>  &nbsp; html,css,js / spring
 <br/>
-<a href="https://github.com/yhwit30/nextJs_project">6. 할 일 목록 앱(2024.4)</a>
+<a href="https://github.com/yhwit30/nextJs_project">6. 할 일 목록 앱(2024.4)</a>  &nbsp; React / VSCode
 <br/>
-<a href="https://github.com/yhwit30/chat_app_24_04">7. 채팅 앱(2024.4)</a>
+<a href="https://github.com/yhwit30/chat_app_24_04">7. 채팅 앱(2024.4)</a> &nbsp; Postman
 <br/>
-<a href="https://github.com/yhwit30/batch_ex_24_04">8. 쇼핑몰 사이트(2024.4)</a>
+<a href="https://github.com/yhwit30/batch_ex_24_04">8. 쇼핑몰 사이트(2024.4)</a> &nbsp; Spring Batch
 <br/>
-<a href="https://github.com/yhwit30/acc_app_2024_04">9. 음원판매 사이트(2024.5)</a>
+<a href="https://github.com/yhwit30/acc_app_2024_04">9. 음원판매 사이트(2024.5)</a> &nbsp; Spring Batch
 </div>
 
 <br/><br/>
