@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Youhyun%20Won&fontSize=90" />
 
 
-### 🗂️Portfolio
+### 📂Portfolio
 <hr>
 
 <div>
@@ -94,15 +94,15 @@
 [코리아IT아카데미 학습내용]
 
 <div>
-<a href="https://github.com/yhwit30/wise_saying_2023_12">1. 명언 앱(2023.12) </a>  &nbsp; java / eclipse
+<a href="https://github.com/yhwit30/wise_saying_2023_12">1. 명언 앱(2023.12) </a>  &nbsp; Java / Eclipse
 <br/>
-<a href="https://github.com/yhwit30/polynomial_cal_23_12">2. 다항식 계산기(2023.12)</a>  &nbsp; java / intelliJ
+<a href="https://github.com/yhwit30/polynomial_cal_23_12">2. 다항식 계산기(2023.12)</a>  &nbsp; Java / IntelliJ
 <br/>
-<a href="https://github.com/yhwit30/23_12_AM_backup">3. 회원+게시글 프로젝트(2024.1)</a>  &nbsp; java / eclipse
+<a href="https://github.com/yhwit30/23_12_AM_backup">3. 회원+게시글 프로젝트(2024.1)</a>  &nbsp; Java / Eclipse
 <br/>
-<a href="https://github.com/yhwit30/24_01_JDBC_AM">4. JDBC 활용(2024.1)</a>  &nbsp; java / spring
+<a href="https://github.com/yhwit30/24_01_JDBC_AM">4. JDBC 활용(2024.1)</a>  &nbsp; Java / Spring
 <br/>
-<a href="https://github.com/yhwit30/JSP_AM_2024_01">5. JSP 활용(2024.1)</a>  &nbsp; html,css,js / spring
+<a href="https://github.com/yhwit30/JSP_AM_2024_01">5. JSP 활용(2024.1)</a>  &nbsp; HTML,CSS,JS / Spring
 <br/>
 <a href="https://github.com/yhwit30/nextJs_project">6. 할 일 목록 앱(2024.4)</a>  &nbsp; React / VSCode
 <br/>
