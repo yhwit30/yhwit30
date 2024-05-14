@@ -106,13 +106,13 @@
 <br/>
 <a href="https://github.com/yhwit30/nextJs_project">6. 할 일 목록 앱(2024.4)</a>  &nbsp; React / VSCode
 <br/>
-<a href="https://github.com/yhwit30/chat_app_24_04">7. 채팅 앱(2024.4)</a> &nbsp; Postman
+<a href="https://github.com/yhwit30/chat_app_24_04">7. 채팅 앱(2024.4)</a> &nbsp; Java / Postman
 <br/>
-<a href="https://github.com/yhwit30/batch_ex_24_04">8. 쇼핑몰 사이트(2024.4)</a> &nbsp; Spring Batch / IntelliJ
+<a href="https://github.com/yhwit30/batch_ex_24_04">8. 쇼핑몰 사이트(2024.4)</a> &nbsp; Java,Spring Batch / IntelliJ
 <br/>
-<a href="https://github.com/yhwit30/acc_app_2024_04">9. 음원판매 사이트(2024.5)</a> &nbsp; Spring Batch / IntelliJ
+<a href="https://github.com/yhwit30/acc_app_2024_04">9. 음원판매 사이트(2024.5)</a> &nbsp; Java,Spring Batch / IntelliJ
 <br>
-<a href="https://github.com/yhwit30/JWT_2024_05">10. JWT(2024.5)</a> &nbsp; IntelliJ
+<a href="https://github.com/yhwit30/JWT_2024_05">10. JWT(2024.5)</a> &nbsp; Java / IntelliJ
 </div>
 
 <br/><br/>
