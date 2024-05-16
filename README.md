@@ -100,9 +100,9 @@
 <br/>
 <a href="https://github.com/yhwit30/23_12_AM_backup">3. 회원+게시글 프로젝트(2024.1)</a>  &nbsp; Java / Eclipse
 <br/>
-<a href="https://github.com/yhwit30/24_01_JDBC_AM">4. JDBC 활용(2024.1)</a>  &nbsp; Java / Spring
+<a href="https://github.com/yhwit30/24_01_JDBC_AM">4.  회원+게시글 프로젝트 -JDBC 활용(2024.1)</a>  &nbsp; Java / Spring
 <br/>
-<a href="https://github.com/yhwit30/JSP_AM_2024_01">5. JSP 활용(2024.1)</a>  &nbsp; HTML,CSS,JS / Spring
+<a href="https://github.com/yhwit30/JSP_AM_2024_01">5.  회원+게시글 프로젝트 -JSP 활용(2024.1)</a>  &nbsp; HTML,CSS,JS / Spring
 <br/>
 <a href="https://github.com/yhwit30/nextJs_project">6. 할 일 목록 앱(2024.4)</a>  &nbsp; React / VSCode
 <br/>
