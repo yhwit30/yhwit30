@@ -113,6 +113,8 @@
 <a href="https://github.com/yhwit30/acc_app_2024_04">9. 음원판매 사이트(2024.5)</a> &nbsp; Java,Spring Batch / IntelliJ
 <br>
 <a href="https://github.com/yhwit30/JWT_2024_05">10. JWT(2024.5)</a> &nbsp; Java / IntelliJ
+<br>
+<a href="https://github.com/yhwit30/rest_api_2024_05">11. JWT -REST api 활용(2024.5)</a> &nbsp; Java / IntelliJ, Postman
 </div>
 
 <br/><br/>
