@@ -57,6 +57,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </picture>
   <picture>
 <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=flat&amp;logo=eclipseide&amp;logoColor=white"> </picture>
+     <picture>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+         </picture>
    <picture>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> </picture>
     <picture>
@@ -72,6 +75,7 @@
          <picture>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
          </picture>
+
 </div>
 
 <br/><br/>
@@ -107,7 +111,7 @@
 </div>
 <div>
 2024.01 ~ 2024.03 :
- <picture><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></picture>
+<picture><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></picture>
 </div>
 
 <br/>
