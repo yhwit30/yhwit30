@@ -110,11 +110,15 @@
 <div>
 2024.01 ~ 02 : &emsp;&emsp;
 <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></picture> <picture>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> </picture> <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></picture>  <picture><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></picture>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> </picture> <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></picture>  <picture><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></picture>
 </div>
 <div>
 2024.01 ~ 2024.03 :
-<picture><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></picture>
+<picture><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></picture>
+</div>
+<div>
+2024.04 ~ 2024.05 : 
+<picture><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/jsonwebtokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/></picture>
 </div>
 
 <br/>
