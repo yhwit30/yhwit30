@@ -148,7 +148,9 @@
 <br>
 <a href="https://github.com/yhwit30/rest_api_2024_05">11. JWT -REST api 활용(2024.5)</a> &nbsp; Java / IntelliJ, Postman
 <br>
-<a href="https://github.com/yhwit30/sssAndUpload_2024_5_yhw">12. 카카오로그인(2024.5)</a> &nbsp; Java / Spring
+<a href="https://github.com/yhwit30/sssAndUpload_2024_5_yhw">12. 카카오로그인(2024.5)</a> &nbsp; Java / IntelliJ
+<br>
+<a href="https://github.com/yhwit30/sbb_deploy_exam_2024_05">13. 서비스 서버 배포(2024.5)</a> &nbsp; Java / Fly.io
 </div>
 
 <br/><br/>
