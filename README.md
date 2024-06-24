@@ -160,4 +160,6 @@
 <a href="https://github.com/yhwit30/demo_project_2024_1">주택관리 개인 프로젝트(2024.2 ~ 3)</a>
 <br>
 <a href="https://github.com/yhwit30/IMMusic_project">아이엠뮤직 팀 프로젝트(2024.4 ~ 5)</a>
+ <br>
+<a href="https://github.com/yhwit30/SSMA_homepage">SSMA 홈페이지 구축(2024.6 ~ )</a>
 </div>
