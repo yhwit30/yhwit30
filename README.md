@@ -58,17 +58,23 @@
 <hr>
 <div>
  <picture>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </picture>
-  <picture>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ </picture>
+<picture>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-         </picture>
-   <picture>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> </picture>
-    <picture>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> </picture>
-     <picture>
-<!--<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> </picture>
-      <picture>
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+</picture>
+<picture>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
+</picture>    
+<!--<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
+</picture>
+<picture>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> </picture>
        <picture>
 <img src="https://img.shields.io/badge/figma-1b024f?style=flat&amp;logo=figma&amp;logoColor=white"> </picture>
@@ -154,7 +160,7 @@
 </div>
 
 
-<br/><br/>-->
+<br/><br/>
 ### 🏘️Project
 <hr>
 <div>
@@ -163,4 +169,4 @@
 <a href="https://github.com/yhwit30/IMMusic_project">아이엠뮤직 팀 프로젝트(2024.4 ~ 5)</a>
  <br>
 <a href="https://github.com/yhwit30/SSMA_homepage">SSMA 홈페이지 구축(2024.6 ~ )</a>
-</div>
+</div>-->
